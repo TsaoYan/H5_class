@@ -1,0 +1,10 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/liqinghua/Documents/GitHub/H5_class/screenshot/%e5%8f%91%e7%8e%b0.png">
+  <Marks>
+    <RectMark color="16711680" x="25" y="192" offsetX="70" offsetY="72"/>
+    <RectMark color="16711680" x="232" y="212" offsetX="35" offsetY="36"/>
+    <LengthMark direction="3" color="16711680" length="137" x="345" y="296"/>
+    <LengthMark direction="12" color="16711680" length="27" x="-1" y="427"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6250335" offsetX="25" offsetY="10" x="136" y="356"/>
+    <RectMark color="16711680" x="742" y="203" offsetX="36" offsetY="53"/>
+  </Marks>
+</MKM>

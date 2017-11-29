@@ -1,0 +1,107 @@
+/*头部*/
+.header .logo{
+	background: url(../img/logo01.png);
+
+	background-size: cover;
+	height: 0.5rem;
+	width: 4rem;
+	padding-top: 0.3rem;
+	float: left;
+}
+.header-right{
+	width: 1.5rem;
+	float: right;
+	padding-right: 0.4rem;
+	padding-top: 0.15rem;
+}
+/*.header-right-add{
+	background: url(../img/icon_add.png);
+	background-size: cover;
+	width: 0.6rem;
+	height: 0.6rem;
+	float: left;
+	
+}*/
+.header-right-message{
+	background: url(../img/icon_message.png);
+	background-size: cover;
+	width: 0.6rem;
+	height: 0.6rem;
+	float: right;
+
+}
+
+/*用户信息*/
+.user-information{
+	padding-top: 1.3rem;
+	width: 8rem;
+	height: 4.9rem;
+	font-size: 0.32rem;
+
+}
+.user-information-img{
+	background: url(../img/user/touxiang.jpg);
+	background-size: cover;
+	border-radius: 50%;
+	width: 2.16rem;
+	height: 2.16rem;
+	margin-left: 2.95rem;
+
+}
+.user-information-name{
+		text-align: center;
+		padding: 0.2rem 0rem;
+}
+.user-information-signature{
+		text-align: center;
+		padding: 0.2rem 0rem;
+		color: #808080;
+}
+.user-information-about{
+	text-align: center;
+	padding-top: 0.3rem;
+
+}
+.user-information-attention{
+	padding-right: 1.5rem;
+}
+.user-information-fans{
+	padding-left: 1.5rem;
+}
+
+
+.line{
+	height: 0.2rem;
+	width: 8rem;
+	background-color: #F0F0F0;
+}
+
+
+
+.explore-content{
+	
+}
+.explore-item{
+	font-size: 0.35rem;
+	padding: 0.1rem 0.25rem 0.1rem 0.25rem;
+	border-bottom: solid 0.02rem #F0F0F0;
+	height: 0.5rem;
+
+}
+.explore-item img{
+	width: 0.5rem;
+	height: 0.5rem;
+	float: left;
+
+}
+.explore-item-title{
+	line-height: 0.5rem;
+	padding-left: 0.3rem;
+}
+.explore-item-next{
+	background: url(../img/icon_next.png);
+	background-size: cover;
+	height: 0.6rem;
+	width: 0.36rem;
+	float: right;
+}

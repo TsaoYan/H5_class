@@ -9,3 +9,18 @@ H5课程设计-资源论坛APP
 	使用 Mark Man对截图界面进行测量标注
 图片素材准备
 	收集相应图片素材待用
+
+
+
+
+
+注意的问题：
+清除浮动影响
+	clear: both;
+奇偶样式
+.plate:nth-child(odd){
+	float: left;
+}
+.plate:nth-child(even){
+	float: right;
+}

@@ -1,0 +1,123 @@
+*{margin: 0 0 0 0;	padding: 0 0 0 0;}
+a{
+	text-decoration: none;
+		color: black;
+}
+
+.header{	
+	height: 0.8rem;	
+	width: 8rem;
+	background-color: #069900;
+	padding: 0.1rem 0.2rem 0.2rem 0.2rem;
+	position:fixed;
+    top:0;
+}
+.header img{
+	height: 0.7rem; float: left;padding-top: 0.1rem;
+}
+.header .goback{
+	font-size: 0.28rem;float: left;line-height: 0.7rem;color: white;padding-top: 0.1rem;
+}
+/*帖子概略*/
+.post-sketch{
+	height: 2.2rem;
+	border: solid 0.02rem #F0F0F0;	
+	padding: 0.2rem 0.2rem 0rem 0.2rem;
+	
+}
+.post-sketch img{
+	width: 2rem;
+	height: 2rem;
+	float: left;
+}
+.post-sketch-content{
+	width: 5.4rem;
+	float: right;
+	
+}
+.post-sketch-header{
+	width: 5rem;
+	height: 0.46rem;
+	overflow: hidden;
+}
+.post-sketch-header-mark{
+	background-color: #1bbf80;
+	border-radius: 0.1rem;
+	padding: 0rem 0.05rem;
+	font-size: 0.3rem;
+	height: 0.4rem;
+	float: left;
+}
+.post-sketch-title{
+	font-size: 0.35rem;	
+	width: 4.5rem;
+	height: 0.38rem;
+	float: right;
+	
+}
+.post-sketch-text{
+	font-size: 0.25rem;
+	color:#808080;
+	height: 0.8rem;
+	overflow: hidden;
+}
+.post-sketch-bottom{
+
+	padding-top: 0.2rem;
+	color: #808080;
+	font-size: 0.25rem;
+}
+.post-sketch-author{
+	float: left;
+}
+.post-sketch-bottom-right{
+	float: right;
+}
+.post-sketch-time{
+	position: absolute;
+	left: 4.8rem;
+}
+.post-sketch-view{
+	background: url(../img/icon_view.png) no-repeat;
+	width: 1rem;
+	height: 0.38rem;
+	position: absolute;
+	left: 5.3rem;
+	text-align: right;
+	line-height: 0.4rem;	
+}
+.post-sketch-message{
+	background: url(../img/icon_liuyan.png) no-repeat;
+	width: 1rem;
+	height: 0.38rem;
+	position: absolute;
+	left: 6.5rem;
+	text-align: right;
+	line-height: 0.4rem;	
+}
+/*底部菜单*/
+.menu{
+	height: 1rem;
+	padding-bottom: 0.25rem;
+	width: 8rem;
+	border: solid 0.02rem #F0F0F0;
+	position:fixed;
+    bottom:0;
+    background-color: #FFFFFF;
+}
+.menu-area{
+	width: 0.71rem;
+	height: 1rem;
+	display: inline-block;
+	padding-left: 0.85rem;
+}
+.menu-img{
+	background: url(../img/icon_zy01.png);
+	background-size: 0.55rem 0.55rem;
+	height: 0.55rem;
+	width: 0.55rem;
+	display: block;
+}
+.menu-title{
+	font-size: 0.28rem;
+}
