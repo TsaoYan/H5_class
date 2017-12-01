@@ -1,0 +1,31 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/liqinghua/Documents/GitHub/H5_class/screenshot/%e5%b8%96%e5%ad%90%e8%af%a6%e6%83%85.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="174" x="13" y="114"/>
+    <LengthMark direction="3" color="16711680" length="115" x="332" y="0"/>
+    <RectMark color="16711680" x="516" y="31" offsetX="57" offsetY="57"/>
+    <RectMark color="16711680" x="570" y="144" offsetX="43" offsetY="44"/>
+    <RectMark color="16711680" x="737" y="142" offsetX="39" offsetY="42"/>
+    <RectMark color="16711680" x="137" y="209" offsetX="35" offsetY="43"/>
+    <RectMark color="16711680" x="721" y="306" offsetX="33" offsetY="40"/>
+    <RectMark color="16711680" x="17" y="305" offsetX="89" offsetY="92"/>
+    <RectMark color="16711680" x="224" y="312" offsetX="28" offsetY="34"/>
+    <RectMark color="16711680" x="476" y="421" offsetX="37" offsetY="36"/>
+    <LengthMark direction="3" color="16711680" length="19" x="404" y="288"/>
+    <LengthMark direction="3" color="16711680" length="26" x="214" y="115"/>
+    <RectMark color="16711680" x="29" y="569" offsetX="241" offsetY="254"/>
+    <LengthMark direction="3" color="16711680" length="20" x="289" y="821"/>
+    <LengthMark direction="3" color="16711680" length="193" x="660" y="839"/>
+    <RectMark color="16711680" x="17" y="858" offsetX="90" offsetY="89"/>
+    <RectMark color="16711680" x="753" y="861" offsetX="29" offsetY="34"/>
+    <RectMark color="16711680" x="757" y="910" offsetX="24" offsetY="27"/>
+    <RectMark color="16711680" x="408" y="973" offsetX="35" offsetY="38"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16052721" offsetX="25" offsetY="10" x="525" y="1262"/>
+    <RectMark color="16711680" x="43" y="1274" offsetX="87" offsetY="84"/>
+    <RectMark color="16711680" x="622" y="1272" offsetX="160" offsetY="84"/>
+    <RectMark color="16711680" x="326" y="1272" offsetX="150" offsetY="85"/>
+    <LengthMark direction="3" color="16711680" length="121" x="251" y="1253"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6664682" offsetX="25" offsetY="10" x="181" y="1108"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16756440" offsetX="25" offsetY="10" x="178" y="915"/>
+    <RectMark color="16711680" x="660" y="1296" offsetX="44" offsetY="41"/>
+  </Marks>
+</MKM>

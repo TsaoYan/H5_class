@@ -18,6 +18,10 @@ a{
 .header .goback{
 	font-size: 0.28rem;float: left;line-height: 0.7rem;color: white;padding-top: 0.1rem;
 }
+.header .header-right-collect{
+	background: url(../img/shoucang.png);
+	background-size: 0.5rem 0.5rem;
+}
 /*帖子概略*/
 .post-sketch{
 	height: 2.2rem;
@@ -77,6 +81,25 @@ a{
 	position: absolute;
 	left: 4.8rem;
 }
+
+.post-sketch-view{
+	float: left;
+	background: url(../img/icon_view.png) no-repeat;
+	width: 1rem;
+	height: 0.38rem;
+
+	text-align: right;
+	line-height: 0.4rem;	
+}
+.post-sketch-message{
+	background: url(../img/icon_liuyan.png) no-repeat;
+	width: 1rem;
+	height: 0.38rem;
+	float: right;
+	text-align: right;
+	line-height: 0.4rem;	
+}
+/*
 .post-sketch-view{
 	background: url(../img/icon_view.png) no-repeat;
 	width: 1rem;
@@ -94,7 +117,7 @@ a{
 	left: 6.5rem;
 	text-align: right;
 	line-height: 0.4rem;	
-}
+}*/
 /*底部菜单*/
 .menu{
 	height: 1rem;

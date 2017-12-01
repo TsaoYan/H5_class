@@ -14,7 +14,7 @@ H5课程设计-资源论坛APP
 
 
 
-注意的问题：
+注意的知识点：
 清除浮动影响
 	clear: both;
 奇偶样式
@@ -24,3 +24,5 @@ H5课程设计-资源论坛APP
 .plate:nth-child(even){
 	float: right;
 }
+
+<a onClick="javascript:history.back(-1);"></a>
